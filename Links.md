@@ -2,6 +2,20 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 18:47 IR
+- 🗜️ [SEFv7.2.7z.001](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/SEFv7.2.7z.001) `95.0MB`
+
+- 🗜️ [SEFv7.2.7z.002](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/SEFv7.2.7z.002) `95.0MB`
+
+- 🗜️ [SEFv7.2.7z.003](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/SEFv7.2.7z.003) `95.0MB`
+
+- 🗜️ [SEFv7.2.7z.004](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/SEFv7.2.7z.004) `95.0MB`
+
+- 🗜️ [SEFv7.2.7z.005](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/SEFv7.2.7z.005) `92.7MB`
+
+---
+
+
 ### 📅 2026-05-14 18:26 IR
 - 📥 [293796](https://github.com/m24-Developer/sandbox-temp-/raw/main/dl/293796) `7KB`
 
