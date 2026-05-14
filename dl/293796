@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Your download is starting - ModDB</title>
+	<meta charset="utf-8">
+	<meta name="robots" content="noindex, nofollow" />
+	<style>
+	body, p, blockquote, table, tr, th, td {
+		margin: 0;
+		padding: 0;
+		border: 0;
+	}
+
+	body {
+		background-color: #fff;
+	}
+
+	a, a:link, a:visited {
+		color: #000;
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+	a:visited {
+		color: #999;
+	}
+	
+	a:hover, a:active {
+		color: #ff6600; 
+		text-decoration: underline;
+	}
+
+	p {
+		color: #000;
+		font-size: 12px;
+		padding-bottom: 15px;
+		clear: both;
+	}
+	
+	p a, p a:link, p a:visited {
+		color: #000;
+		font-size: 12px;
+		text-decoration: underline;
+	}
+	
+	p a:hover, p a:active {
+		color: #ff6600; 
+		text-decoration: underline;
+	}
+	
+	body {
+		background-color: #fff;
+		font-size: 62.5%;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+		color: #000;
+		padding: 20px 20px 0;
+	}
+	
+	blockquote {
+		padding: 0 20px;
+	}
+	
+	blockquote p {
+		color: #666;
+		font-style: italic;
+	}
+	
+	blockquote p a, blockquote p a:link, blockquote p a:visited {
+		color: #666;
+	}
+	
+	.mirrors {
+		height: 480px;
+		width: 640px;
+	}
+	
+	.mirrors .row {
+		padding: 10px 0 5px;
+		text-align: left;
+	}
+	
+	.mirrors .image {
+		float: left;
+	}
+	
+	.mirrors .image img {
+		border: 5px solid #000;
+		width: 60px;
+	}
+	
+	.mirrors .content {
+		display: block;
+		float: left;
+		margin-left: 10px;
+		width: 560px;
+	}
+	
+	.mirrors .heading {
+		font-size: 20px;
+		line-height: 20px;
+		margin: 0;
+		padding: 10px 0 0;
+	}
+	
+	.mirrors .subheading {
+		font-size: 12px;
+	}
+	 
+	.supporter {
+		overflow: hidden;
+		text-align: center;
+		width: 640px;
+	}
+	
+	#downloadoff,
+	#downloadon {
+		background: url(https://static.moddb.com/cutoff/images/default/btn_download_icon.png) no-repeat left 0px;
+		display: block;
+		float: right;
+		height: 0;
+		overflow: hidden;
+		padding-top: 39px;
+		width: 39px;
+	}
+	
+	#downloadoff {
+		background-position: left -39px;
+	}
+	</style>
+	<link rel="canonical" href="https://www.moddb.com/downloads/swat-elite-force-v72" /><script type="text/javascript" async src="https://btloader.com/tag?o=4981716645576704&upapi=true"></script><script type="text/javascript" async src="https://cdn.confiant-integrations.net/MXynHbpYmAxwO610SDVr6A6CHhQ/gpt_and_prebid/config.js"></script>
+</head>
+<body>
+
+ 
+<p>Wait for the download to begin, if it doesn't click the link to <a href="/downloads/mirror/293796/131/6fde66effa9979c4c5fbce7dcedbb5e9/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fswat-elite-force%2Fdownloads">download SEFv7.2.zip</a> or try another <a href="/downloads/start/293796/all?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fswat-elite-force%2Fdownloads">mirror</a>.</p>
+
+<div align="center">
+	<div class="supporter"><script type="text/javascript" language="javascript" src="https://live.primis.tech/live/liveView.php?s=115823&schain=1.0,1!ziffdavis.com,1013459,1&kv_1=windows,pc&kv_2="></script></div>
+</div>
+ 
+
+<script src="https://static.moddb.com/html/external/min/index.php?g=jquery&amp;1"></script>
+<script src="https://static.moddb.com/html/external/min/index.php?g=jsgnignnew&4"></script>
+<script>
+$(document).ready(function() { $(window).load(function() { setTimeout(function() { window.location.href="https://www.moddb.com/downloads/mirror/293796/131/6fde66effa9979c4c5fbce7dcedbb5e9/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fswat-elite-force%2Fdownloads"; }, 5000); });
+
+					var adConfig = {
+						customVariables: { 
+							url: document.location.pathname.substr(0,40),
+							version: "hd",
+							source: "article",
+							channel: "downloads",
+							genre: [""],
+							platforms: ["windows","pc"],
+							franchise: [""],
+							players: [""],
+							triggers: [""]
+						},
+						floorPrices: {
+							defaultFloorprice: 0.05,
+							usFloorprice: 0.1,
+							ukFloorprice: 0.1,
+							aucaFloorprice: 0.1,
+							euFloorprice: 0.1,
+						},
+						liveRampAdConfig: {
+							enabled: true,
+							LiveRampPubID: "13796"
+						},
+						liveIntentAdConfig: {
+							enabled: true,
+							LiveIntentScript: "https://b-code.liadm.com/b-02kr.min.js",
+							LiveIntentPubID: "93628"
+						},
+						igneUnit: "/5691,1013459/moddb/#DEVICE_web_display/#PAGETEMPLATE",
+						iabCategories: "680, 682, 684, 685",
+						gamId: "5691",
+						pubUAM: "3158",
+						lazyload_selector: ".lazyload",
+						runUAM: false,
+						device: "hd",
+						countryCode: "",
+						childPublisher: 1013459,
+						showNonPersonalisedAds: "false",
+						runPrebid: true,
+						prebidLib: "https://www.moddb.com/html/cutoff/js/misc.gn.pre.10.22.0.js",
+						prebidConfig: {"rubicon":{"accountId":"11576","siteId":"570068","zoneId":"3603344"},"pubmatic":{"publisherId":"156082","adSlot":"6398030"},"amx":{"tagId":"6kOmTok66"},"onetag":{"pubId":"7e0c4ea788f779d"},"criteo":{"networkId":2714,"pubid":"5331_E4CMGJ"},"ix":{"LB_1":[{"siteId":"1182134","size":[970,250]},{"siteId":"1182134","size":[728,90]}],"HP":[{"siteId":"1182134","size":[300,600]},{"siteId":"1182134","size":[300,250]}],"MPU":[{"siteId":"1182134","size":[300,250]}],"LB_2":[{"siteId":"1182134","size":[728,90]}]},"openweb":{"org":"sp_xEkoxAFD","placementId":"sp_xEkoxAFD_ModDB_com_MWeb_Display_Prebid"},"ttd":{"supplySourceId":"ziffdavis","publisherId":"1013459"},"triplelift":{"inventoryCode":"DBolical_Display_Prebid"},"ozone":{"publisherId":"OZONEZD00001","siteId":"3500001728","placementId":"3500019857"}},
+						prebidServerEnabled: true,
+						prebidServerPlacementId: "moddb_display",
+						ownedSite: false,
+						refreshAdsConfig: { enabled: true, maxRefreshes: 20, conversantRate: 30000, refreshableAdvertIds: [ 0, 220082044, 78946204, 72863404, 2925170143, 2984552083, 74678524, 74398204, 5039755858, 4887123045, 14037733, 14030293, 282918133, 74106124, 22854133, 539266933,4859777187 ], refreshDirect: true, directMobileRate: 30000, overrideRate: 30000, threshold: 0.5 },
+						insertInto: "",
+					};
+					window.AdScript = new GNAdScript.default(".DBsupporter", adConfig);
+					window.AdScript.init();
+
+		if(typeof isAB === "undefined") {
+			yesAB(true);
+		} else {
+			isAB.on(true, yesAB).onNotDetected(noAB);
+		}
+
+		function yesAB(unknown) {
+			if(unknown) {
+				gaAB("send", "event", "Adblock", "Undefined", "true", 1);
+			} else {
+				height = Math.floor((Math.random() * 5)) < 1 ? 600 : 250;
+				gaAB("send", "event", "Adblock", "Blocked", "true", 1);
+
+				$("div.nextmediaboxtop,div.footermediabox").remove();
+				$("div.nextmediabox div.supporter").html("<iframe src=\"https://www.moddb.com/media/block/300/"+height+"?sad=t&t=1778770598\" width=300 height="+height+" frameborder=0></iframe>");
+				$("div.supporter").html("<iframe src=\"https://www.moddb.com/media/block/640/480?sad=t&t=1778770598\" width=640 height=480 frameborder=0></iframe>");
+			}
+		}
+	
+		function noAB() {
+			gaAB("send", "event", "Adblock", "Unblocked", "false", 1);
+		}
+		
+		function gaAB(var1, var2, var3, var4, var5, var6) {
+			if(typeof ga === "function") {
+				ga(var1, var2, var3, var4, var5, var6);
+			}
+		}
+ });
+</script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9fbac0334ed738b3',t:'MTc3ODc3MDU5OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
